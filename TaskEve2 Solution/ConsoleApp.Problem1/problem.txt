@@ -1,0 +1,6 @@
+﻿4 reqemli eded verilib. Bu ededin evveline 7 reqemini, axirina da 8 reqemini artir
+
+INPUT : a = 3333
+
+OUTPUT : 733338
+              

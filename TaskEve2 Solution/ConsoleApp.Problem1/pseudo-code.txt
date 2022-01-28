@@ -1,0 +1,18 @@
+﻿PROGRAM Adding-Numbers
+
+READ a 
+
+if a >= 1000 and a < 10000 THEN
+
+   SET b = (a * 10) + 8
+   
+   SET c = b + 700000
+
+PRINT c
+
+ELSE 
+
+   PRINT Eded 4 reqemli deyil
+   
+
+end PROGRAM

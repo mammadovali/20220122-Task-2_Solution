@@ -1,0 +1,28 @@
+﻿PROGRAM Simple-Operations
+
+READ a
+READ b
+
+IF  a >= 10000 and a < 100000 and b >= 10000 and b < 100000 THEN
+
+   SET c = a + b
+   
+   IF c >= 10000 and c < 100000 THEN
+      SET d = c + 500000
+   
+   ELSE c >= 100000 and c < 1000000
+       d = c + 5000000
+   
+       
+   SET e = d * 10 + 5
+   
+   SET f = d * 0.05
+   
+   PRINT f
+
+ELSE 
+
+   PRİNT Ededlerden biri ve ya her ikisi 5 reqemli deyil
+
+
+end PROGRAM 

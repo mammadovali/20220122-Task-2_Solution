@@ -1,0 +1,9 @@
+﻿2 dene 5 reqemli eded verilib.
+Bu ededleri toplayib alinan cavabin evveline ve axirina 5 artir.
+Neticenin 5 % tap.
+
+INPUT a = 10000
+INPUT b = 60000
+
+OUTPUT = 285000.25
+

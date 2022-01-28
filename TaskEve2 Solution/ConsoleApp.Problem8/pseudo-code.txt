@@ -1,0 +1,18 @@
+﻿PROGRAM Percentage-Operations
+
+READ a
+READ b
+
+IF a >= 1000 and a < 10000 and b >= 1000000 and b < 10000000 THEN
+
+   SET c = a * 0.04 
+   SET d = b * 0.09
+   SET e = c + d
+   SED f = e * 0.1
+
+   PRINT f
+
+ELSE
+   PRINT Daxil edilen ededler shertlere uygun deyil
+
+end PROGRAM

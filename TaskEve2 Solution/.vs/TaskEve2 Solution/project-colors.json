@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "baea24d6-7452-47d0-a0d3-42c0bd84f29f": {
+      "ProjectGuid": "baea24d6-7452-47d0-a0d3-42c0bd84f29f",
+      "DisplayName": "ConsoleApp1.Problem1",
+      "ColorIndex": 0
+    },
+    "8992b1b3-c730-4f79-add8-d2357cba5306": {
+      "ProjectGuid": "8992b1b3-c730-4f79-add8-d2357cba5306",
+      "DisplayName": "ConsoleApp.Task2",
+      "ColorIndex": 1
+    },
+    "6ad39efc-c0e6-4389-9ef8-9c73c05df65e": {
+      "ProjectGuid": "6ad39efc-c0e6-4389-9ef8-9c73c05df65e",
+      "DisplayName": "ConsoleApp.Task3",
+      "ColorIndex": 2
+    },
+    "9eb880ec-98ca-45ee-8e56-c25438644d96": {
+      "ProjectGuid": "9eb880ec-98ca-45ee-8e56-c25438644d96",
+      "DisplayName": "ConsoleApp.Task4",
+      "ColorIndex": 3
+    },
+    "a35af55b-e389-47de-a86c-d5fdbfb06c0f": {
+      "ProjectGuid": "a35af55b-e389-47de-a86c-d5fdbfb06c0f",
+      "DisplayName": "ConsoleApp.Task3_Problem9",
+      "ColorIndex": 4
+    },
+    "63470dbf-8bef-4a8d-aa4f-46f8d46fb9bf": {
+      "ProjectGuid": "63470dbf-8bef-4a8d-aa4f-46f8d46fb9bf",
+      "DisplayName": "ConsoleApp.Problem2",
+      "ColorIndex": 5
+    },
+    "6cfb61bb-7c7a-4aa6-81bf-6507af5ef424": {
+      "ProjectGuid": "6cfb61bb-7c7a-4aa6-81bf-6507af5ef424",
+      "DisplayName": "ConsoleApp.Problem3",
+      "ColorIndex": 6
+    },
+    "910b914f-a31f-47a8-aee4-ce61aa2688a4": {
+      "ProjectGuid": "910b914f-a31f-47a8-aee4-ce61aa2688a4",
+      "DisplayName": "ConsoleApp.Problem4",
+      "ColorIndex": 7
+    },
+    "b0212c4b-32cd-4d52-a354-e5ced0631db9": {
+      "ProjectGuid": "b0212c4b-32cd-4d52-a354-e5ced0631db9",
+      "DisplayName": "ConsoleApp.Problem5",
+      "ColorIndex": 8
+    },
+    "201a7f74-7c2d-4222-af05-f922913ccad9": {
+      "ProjectGuid": "201a7f74-7c2d-4222-af05-f922913ccad9",
+      "DisplayName": "ConsoleApp.Problem6",
+      "ColorIndex": 9
+    },
+    "43cfb022-82c8-4f06-a718-d444c0cb3a06": {
+      "ProjectGuid": "43cfb022-82c8-4f06-a718-d444c0cb3a06",
+      "DisplayName": "ConsoleApp.Problem7",
+      "ColorIndex": 10
+    },
+    "14525239-f58c-4ca6-bd42-3d0266210017": {
+      "ProjectGuid": "14525239-f58c-4ca6-bd42-3d0266210017",
+      "DisplayName": "ConsoleApp.Problem8",
+      "ColorIndex": 11
+    },
+    "8e0ff4bb-66db-424f-94f4-b8a47769c268": {
+      "ProjectGuid": "8e0ff4bb-66db-424f-94f4-b8a47769c268",
+      "DisplayName": "ConsoleApp.Problem9",
+      "ColorIndex": 12
+    },
+    "12e311ae-4a3a-4243-a4ee-164d3787f167": {
+      "ProjectGuid": "12e311ae-4a3a-4243-a4ee-164d3787f167",
+      "DisplayName": "ConsoleApp.Problem10",
+      "ColorIndex": 13
+    },
+    "ffcb7c8f-6b3d-40ba-bd60-b61774fc65fd": {
+      "ProjectGuid": "ffcb7c8f-6b3d-40ba-bd60-b61774fc65fd",
+      "DisplayName": "ConsoleApp.Problem11",
+      "ColorIndex": 14
+    },
+    "42750b04-4f8f-4f53-9de5-28abfb842b59": {
+      "ProjectGuid": "42750b04-4f8f-4f53-9de5-28abfb842b59",
+      "DisplayName": "ConsoleApp.Problem13",
+      "ColorIndex": 15
+    },
+    "95c33c08-dcde-4012-a7a8-1330071c0a33": {
+      "ProjectGuid": "95c33c08-dcde-4012-a7a8-1330071c0a33",
+      "DisplayName": "ConsoleApp.Problem14",
+      "ColorIndex": 0
+    },
+    "a935409a-3337-4f29-ac51-5392cafe5920": {
+      "ProjectGuid": "a935409a-3337-4f29-ac51-5392cafe5920",
+      "DisplayName": "ConsoleApp.Problem1",
+      "ColorIndex": 1
+    },
+    "90a367ef-4d19-4cf2-979d-c37ce8c8a8c3": {
+      "ProjectGuid": "90a367ef-4d19-4cf2-979d-c37ce8c8a8c3",
+      "DisplayName": "ConsoleApp.Problem15",
+      "ColorIndex": 2
+    },
+    "a0dc1c5c-54d3-4269-bace-7665ee34d485": {
+      "ProjectGuid": "a0dc1c5c-54d3-4269-bace-7665ee34d485",
+      "DisplayName": "ConsoleApp.Problem12",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "2425b7bc-0bc6-4b16-a281-d553fd1542b5": {
+      "ProjectGuid": "2425b7bc-0bc6-4b16-a281-d553fd1542b5",
+      "DisplayName": "ConsoleApp.Problem13",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

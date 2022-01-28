@@ -1,0 +1,10 @@
+﻿2 dene eded verilib.I eded 4 reqemli II eded 7 reqemlidir.
+I ededin 4 % -ni tap.
+Sonra II ededin 9 % ni tap.
+Sonra Cavalari toplayib 10 % ni tap.
+
+
+INPUT a = 1000
+INPUT b = 1000000
+
+OUTPUT = 9004
